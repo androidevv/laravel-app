@@ -1,0 +1,32 @@
+[21-Oct-2021 13:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/services.php on line 18
+[21-Oct-2021 13:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/mail.php on line 19
+[21-Oct-2021 13:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/filesystems.php on line 16
+[21-Oct-2021 13:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/app.php on line 16
+[30-Oct-2021 10:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/services.php on line 18
+[30-Oct-2021 10:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/mail.php on line 19
+[30-Oct-2021 11:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/filesystems.php on line 16
+[30-Oct-2021 11:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kohrentacar/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kohrentacar/public_html/config/app.php on line 16
